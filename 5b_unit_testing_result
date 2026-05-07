@@ -1,0 +1,7 @@
+theia@theiadocker-kmin36543:/home/project/final_pr
+oject$ python3.11 test_emotion_detection.py 
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.619s
+
+OK
